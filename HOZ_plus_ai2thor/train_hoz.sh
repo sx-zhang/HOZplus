@@ -1,0 +1,1 @@
+python main.py --title hozplus --model HOZplus --workers 96 --gpu-ids 0 1 2 3 4 5 6 7 --max-ep 6000000 --action_at_scale 0.40 --log-dir .runs --save-model-dir .trained_model --pretrained-trans .trained_model/DAT_14122621_1100000_2023_09_14_18_35_00.dat

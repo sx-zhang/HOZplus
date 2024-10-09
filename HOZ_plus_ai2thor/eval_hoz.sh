@@ -1,0 +1,1 @@
+python full_eval.py --title hozplus --model HOZplus --action_at_scale 0.40 --results-json debug.json --gpu-ids 0 --log-dir .runs --save-model-dir .trained_models
