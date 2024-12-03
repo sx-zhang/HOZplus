@@ -6,7 +6,7 @@
 ## Dataset
 We use a modified version of the Gibson ObjectNav evaluation setup from [SemExp](https://github.com/devendrachaplot/Object-Goal-Navigation).
 
-1. Download the [Gibson ObjectNav dataset](https://utexas.box.com/s/tss7udt3ralioalb6eskj3z3spuvwz7v) to `$HOZ_plus/data/datasets/objectnav/gibson`.
+1. Download the [Gibson ObjectNav dataset](https://drive.google.com/file/d/1pXiUsVFGWfCfxSEdVt2oe8sxSAj5UBZ2/view?usp=sharing) to `$HOZ_plus/data/datasets/objectnav/gibson`.
     ```
     cd $HOZ_plus/data/datasets/objectnav
     wget -O gibson_objectnav_episodes.tar.gz https://utexas.box.com/shared/static/tss7udt3ralioalb6eskj3z3spuvwz7v.gz
