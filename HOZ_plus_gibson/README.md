@@ -6,13 +6,13 @@
 ## Dataset
 We use a modified version of the Gibson ObjectNav evaluation setup from [SemExp](https://github.com/devendrachaplot/Object-Goal-Navigation).
 
-1. Download the [Gibson ObjectNav dataset](https://utexas.box.com/s/tss7udt3ralioalb6eskj3z3spuvwz7v) to `$SGM_ROOT/data/datasets/objectnav/gibson`.
+1. Download the [Gibson ObjectNav dataset](https://utexas.box.com/s/tss7udt3ralioalb6eskj3z3spuvwz7v) to `$HOZ_plus/data/datasets/objectnav/gibson`.
     ```
-    cd $SGM_ROOT/data/datasets/objectnav
+    cd $HOZ_plus/data/datasets/objectnav
     wget -O gibson_objectnav_episodes.tar.gz https://utexas.box.com/shared/static/tss7udt3ralioalb6eskj3z3spuvwz7v.gz
     tar -xvzf gibson_objectnav_episodes.tar.gz && rm gibson_objectnav_episodes.tar.gz
     ```
-2. Download the image segmentation model [[URL](https://utexas.box.com/s/sf4prmup4fsiu6taljnt5ht8unev5ikq)] to `$HOZplus_ROOT/pretrained_models`.
+2. Download the image segmentation model [[URL](https://utexas.box.com/s/sf4prmup4fsiu6taljnt5ht8unev5ikq)] to `$HOZ_plus/pretrained_models`.
 3. To visualize episodes with the semantic map and potential function predictions, add the arguments `--print_images 1 --num_pf_maps 3` in the evaluation script.
 
 The `data` folder should look like this
@@ -44,7 +44,7 @@ The `data` folder should look like this
 ```
 
 ## Evaluation 
-`sh experiment_scripts/gibson/eval_hoz_plus.sh`
+`sh experiment_scripts/gibson/eval_hoz.sh`
 
 <!-- ## Citing
 If you find this project useful in your research, please consider citing: -->
