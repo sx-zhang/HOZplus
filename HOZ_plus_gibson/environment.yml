@@ -1,4 +1,4 @@
-name: hoz
+name: hoz_plus
 channels:
   - pytorch
   - aihabitat
