@@ -1,12 +1,7 @@
-# Imagine Before Go: Self-Supervised Generative Map for Object Goal Navigation
-<!-- Sixian Zhang, Xinyao Yu, Xinhang Song, Xiaohan Wang, Shuqiang Jiang  -->
-
 ## Setup
-- Clone the repository and move into the top-level directory `cd SGM`
+- Clone the repository and move into the top-level directory `cd hoz_plus`
 - Create conda environment. `conda env create -f environment.yml`
-- Activate the environment. `conda activate sgm`
-- We provide pre-trained model of [sgm](....) and [area_prediction](....). For evaluation, you can download them to the directory.
-- Download the [sgm_dataset](....).  
+- Activate the environment. `conda activate hoz_plus`
 
 ## Dataset
 We use a modified version of the Gibson ObjectNav evaluation setup from [SemExp](https://github.com/devendrachaplot/Object-Goal-Navigation).
@@ -17,7 +12,7 @@ We use a modified version of the Gibson ObjectNav evaluation setup from [SemExp]
     wget -O gibson_objectnav_episodes.tar.gz https://utexas.box.com/shared/static/tss7udt3ralioalb6eskj3z3spuvwz7v.gz
     tar -xvzf gibson_objectnav_episodes.tar.gz && rm gibson_objectnav_episodes.tar.gz
     ```
-2. Download the image segmentation model [[URL](https://utexas.box.com/s/sf4prmup4fsiu6taljnt5ht8unev5ikq)] to `$SGM_ROOT/pretrained_models`.
+2. Download the image segmentation model [[URL](https://utexas.box.com/s/sf4prmup4fsiu6taljnt5ht8unev5ikq)] to `$HOZplus_ROOT/pretrained_models`.
 3. To visualize episodes with the semantic map and potential function predictions, add the arguments `--print_images 1 --num_pf_maps 3` in the evaluation script.
 
 The `data` folder should look like this
@@ -48,11 +43,8 @@ The `data` folder should look like this
             ├── ...
 ```
 
-<!-- ## Training and Evaluation -->
-<!-- ### Train our SGM model  -->
-
 ## Evaluation 
-`sh experiment_scripts/gibson/eval_sgm.sh`
+`sh experiment_scripts/gibson/eval_hoz_plus.sh`
 
 <!-- ## Citing
 If you find this project useful in your research, please consider citing: -->
