@@ -28,7 +28,7 @@ The folder should look like this
             ├── ...
 ```
 
-## Generating graphs
+## Generating Graphs
 
 ### Gibson
 1. `python gen_k_means_gibson.py`
