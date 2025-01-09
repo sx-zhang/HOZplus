@@ -6,9 +6,7 @@ This repository provides tools for processing semantic maps by generating indivi
 
 ## Dataset
 
-You can download the semantic maps dataset for Gibson and AI2THOR from [semantic_maps](https://!!!!!!!!!!).
-
-The folder should look like this
+Please unzip the file `semantic_maps.zip` and the folder should look like this:
 ```python
   generate_hoz_graphs/ 
     ├── gen_hoz_graph_ai2thor
