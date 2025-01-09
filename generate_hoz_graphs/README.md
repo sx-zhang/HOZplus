@@ -1,4 +1,4 @@
-# Semantic Map Processing
+# Construct the Graph from Semantic Maps
 
 ## Overview
 
