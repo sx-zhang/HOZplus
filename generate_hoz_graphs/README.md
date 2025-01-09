@@ -29,5 +29,13 @@ The folder should look like this
 ```
 
 ## Generating graphs
+
 ### Gibson
-1. `python `
+1. `python gen_k_means_gibson.py`
+2. `python merge_all.py`
+You should find the merged graph at `generate_hoz_graphs/gen_hoz_graph_gibson/saved_graphs/merged_gibson_hoz_graph.pbz2`.
+
+### AI2THOR
+1. `python gen_k_means_ai2thor.py`
+2. `python merge_all.py`
+You should find the merged graph at `generate_hoz_graphs/gen_hoz_graph_ai2thor/saved_graphs/merged_ai2thor_hoz_graph.pbz2`.
