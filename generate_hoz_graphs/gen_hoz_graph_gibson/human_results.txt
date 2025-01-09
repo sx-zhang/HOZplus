@@ -1,0 +1,575 @@
+chair: bathroom
+couch: living room
+potted plant: bathroom
+bed: bedroom
+toilet: bathroom
+tv: living room
+dining-table: living room
+oven: kitchen
+sink: bathroom
+refrigerator: kitchen
+book: bedroom
+clock: bedroom
+vase: bedroom
+cup: bedroom
+bottle: bedroom
+chair, couch: living room
+chair, potted plant: bathroom
+chair, bed: bedroom
+chair, toilet: bathroom
+chair, tv: living room
+chair, dining-table: living room
+chair, oven: kitchen
+chair, sink: bathroom
+chair, refrigerator: kitchen
+chair, book: bedroom
+chair, clock: living room
+chair, vase: living room
+chair, cup: living room
+chair, bottle: bathroom
+couch, potted plant: living room
+couch, bed: bedroom
+couch, toilet: bathroom
+couch, tv: living room
+couch, dining-table: living room
+couch, oven: kitchen
+couch, sink: living room
+couch, refrigerator: living room
+couch, book: living room
+couch, clock: living room
+couch, vase: living room
+couch, cup: living room
+couch, bottle: living room
+potted plant, bed: bedroom
+potted plant, toilet: bathroom
+potted plant, tv: living room
+potted plant, dining-table: living room
+potted plant, oven: kitchen
+potted plant, sink: bathroom
+potted plant, refrigerator: kitchen
+potted plant, book: bedroom
+potted plant, clock: bedroom
+potted plant, vase: living room
+potted plant, cup: bedroom
+potted plant, bottle: living room
+bed, toilet: bedroom
+bed, tv: bedroom
+bed, dining-table: living room
+bed, oven: kitchen
+bed, sink: bedroom
+bed, refrigerator: bedroom
+bed, book: bedroom
+bed, clock: bedroom
+bed, vase: bedroom
+bed, cup: bedroom
+bed, bottle: bedroom
+toilet, tv: bathroom
+toilet, dining-table: living room
+toilet, oven: kitchen
+toilet, sink: bathroom
+toilet, refrigerator: bathroom
+toilet, book: bathroom
+toilet, clock: bathroom
+toilet, vase: bathroom
+toilet, cup: bathroom
+toilet, bottle: bathroom
+tv, dining-table: living room
+tv, oven: kitchen
+tv, sink: bathroom
+tv, refrigerator: kitchen
+tv, book: bedroom
+tv, clock: bedroom
+tv, vase: living room
+tv, cup: bedroom
+tv, bottle: living room
+dining-table, oven: living room
+dining-table, sink: living room
+dining-table, refrigerator: kitchen
+dining-table, book: living room
+dining-table, clock: living room
+dining-table, vase: living room
+dining-table, cup: living room
+dining-table, bottle: living room
+oven, sink: kitchen
+oven, refrigerator: kitchen
+oven, book: kitchen
+oven, clock: kitchen
+oven, vase: kitchen
+oven, cup: kitchen
+oven, bottle: kitchen
+sink, refrigerator: kitchen
+sink, book: kitchen
+sink, clock: bathroom
+sink, vase: living room
+sink, cup: kitchen
+sink, bottle: bathroom
+refrigerator, book: kitchen
+refrigerator, clock: kitchen
+refrigerator, vase: kitchen
+refrigerator, cup: kitchen
+refrigerator, bottle: kitchen
+book, clock: bedroom
+book, vase: living room
+book, cup: bedroom
+book, bottle: bedroom
+clock, vase: living room
+clock, cup: living room
+clock, bottle: living room
+vase, cup: living room
+vase, bottle: living room
+cup, bottle: living room
+chair, couch, potted plant: living room
+chair, couch, bed: bedroom
+chair, couch, toilet: living room
+chair, couch, tv: living room
+chair, couch, dining-table: living room
+chair, couch, oven: kitchen
+chair, couch, sink: living room
+chair, couch, refrigerator: living room
+chair, couch, book: living room
+chair, couch, clock: living room
+chair, couch, vase: living room
+chair, couch, cup: living room
+chair, couch, bottle: living room
+chair, potted plant, bed: bedroom
+chair, potted plant, toilet: bathroom
+chair, potted plant, tv: bedroom
+chair, potted plant, dining-table: living room
+chair, potted plant, oven: kitchen
+chair, potted plant, sink: bathroom
+chair, potted plant, refrigerator: kitchen
+chair, potted plant, book: bedroom
+chair, potted plant, clock: living room
+chair, potted plant, vase: living room
+chair, potted plant, cup: living room
+chair, potted plant, bottle: bedroom
+chair, bed, toilet: bathroom
+chair, bed, tv: bedroom
+chair, bed, dining-table: living room
+chair, bed, oven: kitchen
+chair, bed, sink: bedroom
+chair, bed, refrigerator: bedroom
+chair, bed, book: bedroom
+chair, bed, clock: bedroom
+chair, bed, vase: bedroom
+chair, bed, cup: bedroom
+chair, bed, bottle: bedroom
+chair, toilet, tv: bathroom
+chair, toilet, dining-table: living room
+chair, toilet, oven: kitchen
+chair, toilet, sink: bathroom
+chair, toilet, refrigerator: kitchen
+chair, toilet, book: bathroom
+chair, toilet, clock: bathroom
+chair, toilet, vase: bathroom
+chair, toilet, cup: bathroom
+chair, toilet, bottle: bathroom
+chair, tv, dining-table: living room
+chair, tv, oven: kitchen
+chair, tv, sink: bathroom
+chair, tv, refrigerator: kitchen
+chair, tv, book: bedroom
+chair, tv, clock: bedroom
+chair, tv, vase: living room
+chair, tv, cup: living room
+chair, tv, bottle: bedroom
+chair, dining-table, oven: kitchen
+chair, dining-table, sink: living room
+chair, dining-table, refrigerator: living room
+chair, dining-table, book: living room
+chair, dining-table, clock: living room
+chair, dining-table, vase: living room
+chair, dining-table, cup: living room
+chair, dining-table, bottle: living room
+chair, oven, sink: kitchen
+chair, oven, refrigerator: kitchen
+chair, oven, book: kitchen
+chair, oven, clock: kitchen
+chair, oven, vase: kitchen
+chair, oven, cup: kitchen
+chair, oven, bottle: kitchen
+chair, sink, refrigerator: kitchen
+chair, sink, book: kitchen
+chair, sink, clock: bedroom
+chair, sink, vase: living room
+chair, sink, cup: kitchen
+chair, sink, bottle: bathroom
+chair, refrigerator, book: kitchen
+chair, refrigerator, clock: kitchen
+chair, refrigerator, vase: kitchen
+chair, refrigerator, cup: kitchen
+chair, refrigerator, bottle: kitchen
+chair, book, clock: bedroom
+chair, book, vase: living room
+chair, book, cup: bedroom
+chair, book, bottle: bedroom
+chair, clock, vase: living room
+chair, clock, cup: bedroom
+chair, clock, bottle: living room
+chair, vase, cup: living room
+chair, vase, bottle: living room
+chair, cup, bottle: kitchen
+couch, potted plant, bed: living room
+couch, potted plant, toilet: bathroom
+couch, potted plant, tv: living room
+couch, potted plant, dining-table: living room
+couch, potted plant, oven: living room
+couch, potted plant, sink: living room
+couch, potted plant, refrigerator: living room
+couch, potted plant, book: living room
+couch, potted plant, clock: living room
+couch, potted plant, vase: living room
+couch, potted plant, cup: living room
+couch, potted plant, bottle: living room
+couch, bed, toilet: bathroom
+couch, bed, tv: bedroom
+couch, bed, dining-table: living room
+couch, bed, oven: kitchen
+couch, bed, sink: bedroom
+couch, bed, refrigerator: living room
+couch, bed, book: bedroom
+couch, bed, clock: living room
+couch, bed, vase: living room
+couch, bed, cup: bedroom
+couch, bed, bottle: bedroom
+couch, toilet, tv: living room
+couch, toilet, dining-table: living room
+couch, toilet, oven: living room
+couch, toilet, sink: bathroom
+couch, toilet, refrigerator: bathroom
+couch, toilet, book: living room
+couch, toilet, clock: living room
+couch, toilet, vase: living room
+couch, toilet, cup: living room
+couch, toilet, bottle: living room
+couch, tv, dining-table: living room
+couch, tv, oven: living room
+couch, tv, sink: living room
+couch, tv, refrigerator: living room
+couch, tv, book: living room
+couch, tv, clock: living room
+couch, tv, vase: living room
+couch, tv, cup: living room
+couch, tv, bottle: living room
+couch, dining-table, oven: living room
+couch, dining-table, sink: living room
+couch, dining-table, refrigerator: living room
+couch, dining-table, book: living room
+couch, dining-table, clock: living room
+couch, dining-table, vase: living room
+couch, dining-table, cup: living room
+couch, dining-table, bottle: living room
+couch, oven, sink: kitchen
+couch, oven, refrigerator: kitchen
+couch, oven, book: kitchen
+couch, oven, clock: living room
+couch, oven, vase: living room
+couch, oven, cup: living room
+couch, oven, bottle: kitchen
+couch, sink, refrigerator: kitchen
+couch, sink, book: living room
+couch, sink, clock: living room
+couch, sink, vase: living room
+couch, sink, cup: living room
+couch, sink, bottle: living room
+couch, refrigerator, book: living room
+couch, refrigerator, clock: living room
+couch, refrigerator, vase: living room
+couch, refrigerator, cup: kitchen
+couch, refrigerator, bottle: kitchen
+couch, book, clock: living room
+couch, book, vase: living room
+couch, book, cup: living room
+couch, book, bottle: living room
+couch, clock, vase: living room
+couch, clock, cup: living room
+couch, clock, bottle: living room
+couch, vase, cup: living room
+couch, vase, bottle: living room
+couch, cup, bottle: living room
+potted plant, bed, toilet: bathroom
+potted plant, bed, tv: bedroom
+potted plant, bed, dining-table: bedroom
+potted plant, bed, oven: kitchen
+potted plant, bed, sink: bedroom
+potted plant, bed, refrigerator: kitchen
+potted plant, bed, book: bedroom
+potted plant, bed, clock: bedroom
+potted plant, bed, vase: bedroom
+potted plant, bed, cup: bedroom
+potted plant, bed, bottle: bedroom
+potted plant, toilet, tv: bathroom
+potted plant, toilet, dining-table: living room
+potted plant, toilet, oven: kitchen
+potted plant, toilet, sink: bathroom
+potted plant, toilet, refrigerator: bathroom
+potted plant, toilet, book: bathroom
+potted plant, toilet, clock: bathroom
+potted plant, toilet, vase: bathroom
+potted plant, toilet, cup: bathroom
+potted plant, toilet, bottle: bathroom
+potted plant, tv, dining-table: living room
+potted plant, tv, oven: kitchen
+potted plant, tv, sink: kitchen
+potted plant, tv, refrigerator: kitchen
+potted plant, tv, book: bedroom
+potted plant, tv, clock: living room
+potted plant, tv, vase: living room
+potted plant, tv, cup: living room
+potted plant, tv, bottle: bedroom
+potted plant, dining-table, oven: living room
+potted plant, dining-table, sink: living room
+potted plant, dining-table, refrigerator: kitchen
+potted plant, dining-table, book: living room
+potted plant, dining-table, clock: living room
+potted plant, dining-table, vase: living room
+potted plant, dining-table, cup: living room
+potted plant, dining-table, bottle: living room
+potted plant, oven, sink: kitchen
+potted plant, oven, refrigerator: kitchen
+potted plant, oven, book: kitchen
+potted plant, oven, clock: kitchen
+potted plant, oven, vase: kitchen
+potted plant, oven, cup: kitchen
+potted plant, oven, bottle: kitchen
+potted plant, sink, refrigerator: kitchen
+potted plant, sink, book: kitchen
+potted plant, sink, clock: kitchen
+potted plant, sink, vase: living room
+potted plant, sink, cup: kitchen
+potted plant, sink, bottle: bathroom
+potted plant, refrigerator, book: kitchen
+potted plant, refrigerator, clock: kitchen
+potted plant, refrigerator, vase: kitchen
+potted plant, refrigerator, cup: kitchen
+potted plant, refrigerator, bottle: kitchen
+potted plant, book, clock: bedroom
+potted plant, book, vase: living room
+potted plant, book, cup: bedroom
+potted plant, book, bottle: bedroom
+potted plant, clock, vase: living room
+potted plant, clock, cup: bedroom
+potted plant, clock, bottle: bedroom
+potted plant, vase, cup: living room
+potted plant, vase, bottle: living room
+potted plant, cup, bottle: living room
+bed, toilet, tv: bedroom
+bed, toilet, dining-table: bedroom
+bed, toilet, oven: bathroom
+bed, toilet, sink: bathroom
+bed, toilet, refrigerator: bathroom
+bed, toilet, book: bedroom
+bed, toilet, clock: bedroom
+bed, toilet, vase: bedroom
+bed, toilet, cup: bathroom
+bed, toilet, bottle: bathroom
+bed, tv, dining-table: bedroom
+bed, tv, oven: bedroom
+bed, tv, sink: bedroom
+bed, tv, refrigerator: bedroom
+bed, tv, book: bedroom
+bed, tv, clock: bedroom
+bed, tv, vase: bedroom
+bed, tv, cup: bedroom
+bed, tv, bottle: bedroom
+bed, dining-table, oven: living room
+bed, dining-table, sink: bedroom
+bed, dining-table, refrigerator: living room
+bed, dining-table, book: bedroom
+bed, dining-table, clock: living room
+bed, dining-table, vase: living room
+bed, dining-table, cup: living room
+bed, dining-table, bottle: living room
+bed, oven, sink: kitchen
+bed, oven, refrigerator: kitchen
+bed, oven, book: bedroom
+bed, oven, clock: bedroom
+bed, oven, vase: bedroom
+bed, oven, cup: bedroom
+bed, oven, bottle: bedroom
+bed, sink, refrigerator: kitchen
+bed, sink, book: bedroom
+bed, sink, clock: bedroom
+bed, sink, vase: bedroom
+bed, sink, cup: bedroom
+bed, sink, bottle: bedroom
+bed, refrigerator, book: bedroom
+bed, refrigerator, clock: bedroom
+bed, refrigerator, vase: bedroom
+bed, refrigerator, cup: bedroom
+bed, refrigerator, bottle: kitchen
+bed, book, clock: bedroom
+bed, book, vase: bedroom
+bed, book, cup: bedroom
+bed, book, bottle: bedroom
+bed, clock, vase: bedroom
+bed, clock, cup: bedroom
+bed, clock, bottle: bedroom
+bed, vase, cup: bedroom
+bed, vase, bottle: bedroom
+bed, cup, bottle: bedroom
+toilet, tv, dining-table: living room
+toilet, tv, oven: bathroom
+toilet, tv, sink: bathroom
+toilet, tv, refrigerator: kitchen
+toilet, tv, book: bedroom
+toilet, tv, clock: bedroom
+toilet, tv, vase: living room
+toilet, tv, cup: bathroom
+toilet, tv, bottle: bathroom
+toilet, dining-table, oven: kitchen
+toilet, dining-table, sink: bathroom
+toilet, dining-table, refrigerator: kitchen
+toilet, dining-table, book: living room
+toilet, dining-table, clock: living room
+toilet, dining-table, vase: living room
+toilet, dining-table, cup: bathroom
+toilet, dining-table, bottle: bathroom
+toilet, oven, sink: bathroom
+toilet, oven, refrigerator: kitchen
+toilet, oven, book: kitchen
+toilet, oven, clock: kitchen
+toilet, oven, vase: bathroom
+toilet, oven, cup: bathroom
+toilet, oven, bottle: kitchen
+toilet, sink, refrigerator: bathroom
+toilet, sink, book: bathroom
+toilet, sink, clock: bathroom
+toilet, sink, vase: bathroom
+toilet, sink, cup: bathroom
+toilet, sink, bottle: bathroom
+toilet, refrigerator, book: kitchen
+toilet, refrigerator, clock: bathroom
+toilet, refrigerator, vase: kitchen
+toilet, refrigerator, cup: kitchen
+toilet, refrigerator, bottle: kitchen
+toilet, book, clock: bedroom
+toilet, book, vase: bathroom
+toilet, book, cup: bathroom
+toilet, book, bottle: bathroom
+toilet, clock, vase: living room
+toilet, clock, cup: bathroom
+toilet, clock, bottle: bathroom
+toilet, vase, cup: bathroom
+toilet, vase, bottle: bathroom
+toilet, cup, bottle: bathroom
+tv, dining-table, oven: living room
+tv, dining-table, sink: living room
+tv, dining-table, refrigerator: living room
+tv, dining-table, book: living room
+tv, dining-table, clock: living room
+tv, dining-table, vase: living room
+tv, dining-table, cup: living room
+tv, dining-table, bottle: living room
+tv, oven, sink: kitchen
+tv, oven, refrigerator: kitchen
+tv, oven, book: kitchen
+tv, oven, clock: kitchen
+tv, oven, vase: living room
+tv, oven, cup: kitchen
+tv, oven, bottle: kitchen
+tv, sink, refrigerator: kitchen
+tv, sink, book: bedroom
+tv, sink, clock: bedroom
+tv, sink, vase: living room
+tv, sink, cup: living room
+tv, sink, bottle: bathroom
+tv, refrigerator, book: kitchen
+tv, refrigerator, clock: kitchen
+tv, refrigerator, vase: living room
+tv, refrigerator, cup: kitchen
+tv, refrigerator, bottle: kitchen
+tv, book, clock: bedroom
+tv, book, vase: living room
+tv, book, cup: bedroom
+tv, book, bottle: bedroom
+tv, clock, vase: living room
+tv, clock, cup: living room
+tv, clock, bottle: living room
+tv, vase, cup: living room
+tv, vase, bottle: living room
+tv, cup, bottle: living room
+dining-table, oven, sink: kitchen
+dining-table, oven, refrigerator: kitchen
+dining-table, oven, book: living room
+dining-table, oven, clock: living room
+dining-table, oven, vase: living room
+dining-table, oven, cup: living room
+dining-table, oven, bottle: living room
+dining-table, sink, refrigerator: kitchen
+dining-table, sink, book: living room
+dining-table, sink, clock: living room
+dining-table, sink, vase: living room
+dining-table, sink, cup: living room
+dining-table, sink, bottle: living room
+dining-table, refrigerator, book: living room
+dining-table, refrigerator, clock: living room
+dining-table, refrigerator, vase: living room
+dining-table, refrigerator, cup: kitchen
+dining-table, refrigerator, bottle: kitchen
+dining-table, book, clock: living room
+dining-table, book, vase: living room
+dining-table, book, cup: living room
+dining-table, book, bottle: living room
+dining-table, clock, vase: living room
+dining-table, clock, cup: living room
+dining-table, clock, bottle: living room
+dining-table, vase, cup: living room
+dining-table, vase, bottle: living room
+dining-table, cup, bottle: living room
+oven, sink, refrigerator: kitchen
+oven, sink, book: kitchen
+oven, sink, clock: kitchen
+oven, sink, vase: kitchen
+oven, sink, cup: kitchen
+oven, sink, bottle: kitchen
+oven, refrigerator, book: kitchen
+oven, refrigerator, clock: kitchen
+oven, refrigerator, vase: kitchen
+oven, refrigerator, cup: kitchen
+oven, refrigerator, bottle: kitchen
+oven, book, clock: kitchen
+oven, book, vase: kitchen
+oven, book, cup: kitchen
+oven, book, bottle: kitchen
+oven, clock, vase: living room
+oven, clock, cup: kitchen
+oven, clock, bottle: kitchen
+oven, vase, cup: kitchen
+oven, vase, bottle: kitchen
+oven, cup, bottle: kitchen
+sink, refrigerator, book: kitchen
+sink, refrigerator, clock: kitchen
+sink, refrigerator, vase: kitchen
+sink, refrigerator, cup: kitchen
+sink, refrigerator, bottle: kitchen
+sink, book, clock: bedroom
+sink, book, vase: living room
+sink, book, cup: kitchen
+sink, book, bottle: kitchen
+sink, clock, vase: living room
+sink, clock, cup: kitchen
+sink, clock, bottle: bedroom
+sink, vase, cup: living room
+sink, vase, bottle: living room
+sink, cup, bottle: kitchen
+refrigerator, book, clock: kitchen
+refrigerator, book, vase: kitchen
+refrigerator, book, cup: kitchen
+refrigerator, book, bottle: kitchen
+refrigerator, clock, vase: living room
+refrigerator, clock, cup: kitchen
+refrigerator, clock, bottle: kitchen
+refrigerator, vase, cup: kitchen
+refrigerator, vase, bottle: kitchen
+refrigerator, cup, bottle: kitchen
+book, clock, vase: living room
+book, clock, cup: bedroom
+book, clock, bottle: bedroom
+book, vase, cup: living room
+book, vase, bottle: living room
+book, cup, bottle: bedroom
+clock, vase, cup: living room
+clock, vase, bottle: living room
+clock, cup, bottle: living room
+vase, cup, bottle: living room
