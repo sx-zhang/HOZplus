@@ -5,7 +5,7 @@
 We propose the Hierarchical Object-to-Zone (HOZ++) graph, which encapsulates the regularities among objects, zones, and scenes. The HOZ++ graph helps the agent to identify the current zone and the target zone, and computes an optimal path between them, then selects the next zone along the path as the guidance for the agent. Moreover, the HOZ++ graph continuously updates based on real-time observations in new environments, thereby enhancing its adaptability to new environments. Our HOZ++ graph is versatile and can be integrated into existing methods, including end-to-end RL and modular methods.
 
 
-| <img src="imgs/intro.jpg" alt="描述" width="800"> |
+| <img src="imgs/intro.jpg" alt="描述" width="600"> |
 |:------------------------------------------------:|
 
 
