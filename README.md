@@ -4,7 +4,11 @@
 
 We propose the Hierarchical Object-to-Zone (HOZ++) graph, which encapsulates the regularities among objects, zones, and scenes. The HOZ++ graph helps the agent to identify the current zone and the target zone, and computes an optimal path between them, then selects the next zone along the path as the guidance for the agent. Moreover, the HOZ++ graph continuously updates based on real-time observations in new environments, thereby enhancing its adaptability to new environments. Our HOZ++ graph is versatile and can be integrated into existing methods, including end-to-end RL and modular methods.
 
-![Abstract Figure](imgs/intro.jpg) 
+
+<p style="text-align: center;">
+  <img src="imgs/intro.jpg" alt="描述" width="400" height="200">
+</p>
+
 
 This project is divided into two main components:
 
@@ -13,7 +17,9 @@ This project is divided into two main components:
 
 ## 1. Pre-construction of HOZ++ graph
 
-The graph pre-construction process is managed within the `graph_construction` directory. Follow the instructions provided in the `graph_construction/README.md` to prepare data and generate the HOZ++ graphs. This component includes example code for constructing graphs using the AI2THOR and Gibson simulators.
+The graph pre-construction process is managed within the `graph_construction` directory. 
+
+Follow the instructions provided in the `graph_construction/README.md` to prepare data and generate the HOZ++ graphs. This component includes example code for constructing graphs using the AI2THOR and Gibson simulators.
 
 <!-- ### Features
 
@@ -34,5 +40,6 @@ Follow the `implicit_guidance/README.md` for instructions on data preparation, t
 ### 2.2 HOZ++ Explicit Guidance
 
 Designed for modular ObjectNav methods, the explicit guidance approach is found in the `explicit_guidance` directory. 
+
 Follow the `explicit_guidance/README.md` for data preparation and testing. **Note:** This method does not require training.
 
