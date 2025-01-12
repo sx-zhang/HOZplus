@@ -47,3 +47,10 @@ Follow the `explicit_guidance/README.md` for data preparation and testing. **Not
 
 https://github.com/user-attachments/assets/0612428c-9973-472d-b0a8-690acad3cb7b
 
+
+- **RGB-D**: The agent's visual input at each moment.
+- **Rviz**: Monitoring the agent's pose in real-time.
+- **Semantic Map**: Constructed based on RGB-D visual observations.
+- **HOZ++ Node**: Updated with new environmental observations, representing the probability of each object type within a zone.
+- **HOZ++ Edge**: Represents the probability of distance between nodes (zones). To keep it clear, only the Candidate zone and Target zone are displayed, with deeper colors indicating higher probability of closer distance. Note: Multiple Candidate zones may belong to the same HOZ++ node.
+- **Candidate Zone**: The probability of each candidate zone (depicted with deeper red indicating higher probability) is determined based on both the semantic map, which records frontiers and explored trajectories, and the HOZ++ graph, which utilizes nodes for localization and edges for distance inference.
