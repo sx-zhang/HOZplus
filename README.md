@@ -42,3 +42,4 @@ Designed for modular ObjectNav methods, the explicit guidance approach is found 
 
 Follow the `explicit_guidance/README.md` for data preparation and testing. **Note:** This method does not require training.
 
+## 3. Video Demo
